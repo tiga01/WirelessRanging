@@ -1,2 +1,4 @@
 # WirelessRanging
 这是一个基于STM32F103单片机的无线测距系统
+
+详细信息参考README文件夹里的README.txt文档
